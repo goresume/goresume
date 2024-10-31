@@ -2,7 +2,7 @@
 
 **Experienced Backend C++ Developer**
 
-Hi, I'm Johnathon, a passionate software engineer with extensive experience in high-performance computing and backend web development. Previously focused on C++ development, I've transitioned to Go (Golang) and am excited to contribute to innovative projects. This is my Github that solely demonstrates my work with Golang (Go). 
+Hi, I'm Johnathon, a passionate software developer with extensive experience in high-performance computing and backend development. Previously focused on C++ development, I have transitioned to Go (Golang) and am excited to contribute to innovative backend web development projects. This Github that solely demonstrates my experience with Golang (Go). 
 
 **Programming Languages**
 
@@ -11,6 +11,8 @@ Hi, I'm Johnathon, a passionate software engineer with extensive experience in h
     Go (Golang) - proficient (~1 year experience) continuously learning
     Javascript/React - proficient (~1.5 years experiece)
     Python - proficient (~3 years experience)
+    C# - used in school
+    Java - used in school
     
 
 **Key Skills**
