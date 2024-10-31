@@ -11,7 +11,9 @@ Hi, I'm Johnathon, a passionate software developer with extensive experience in 
     Go (Golang) - proficient (~1 year experience) continuously learning
     Javascript/React - proficient (~1.5 years experiece)
     Python - proficient (~3 years experience)
-    C# - used in school
+    Lua - used in hobby projects
+    GDScript - used in hobby projects
+    C# - used in school/hobby projects
     Java - used in school
     
 
