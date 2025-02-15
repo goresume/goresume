@@ -25,6 +25,7 @@ Hi, I'm Johnathon, a passionate software developer with extensive experience in 
     Concurrency and scalability
     Cloud deployments
     PostgreSQL/SQL and database management
+    Microservices
     Algorithms, data structures, and memory management
 
 **Projects**
