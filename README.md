@@ -8,13 +8,14 @@ Hi, I'm Johnathon, a passionate software developer with extensive experience in 
 
     C++ (~5 years work experience)
     SQL (~5 years work experience)
-    Go (Golang) - proficient (~1 year experience) continuously learning
-    Javascript/React - proficient (~1.5 years experiece)
-    Python - proficient (~3 years experience)
+    Go (Golang) - proficient (~1.5 years experience) continuously learning
+    Javascript/React - proficient (~2 years experiece)
+    Python - proficient (~4 years experience)
     Lua - used in hobby projects
     GDScript - used in hobby projects
-    C# - used in school/hobby projects
-    Java - used in school
+    C# - used in university/hobby projects
+    Java - used in university
+    R/SAS/MATLAB - used in university
     
 
 **Key Skills**
