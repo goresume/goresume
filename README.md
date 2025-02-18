@@ -34,6 +34,7 @@ Hi, I'm Johnathon, a passionate software developer with extensive experience in 
 To showcase my skills, I've worked on various personal projects, including:
 
     Building RESTful APIs with Go
+    Building and deploying Microservices using Kubernetes and Docker
     Exploring Go's concurrency model with goroutines and channels
     Deploying backend web applications in cloud environments
 
